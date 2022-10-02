@@ -1,9 +1,17 @@
 # Chatbot Team Meeting & Weekly Arxiv
 
 
-### 금주 : [20220930 3주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/4)
+### 금주 : [20221007 4주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/5)
 
 ### 지난회차
+
+* [20220930 3주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/4)
+  * Deepmind Sparrow
+  * In conversation with AI: building better language models
+  * SETFIT
+  * ELECTRA
+  * R-CNN
+  
 * [20220923 2주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/3)
   * What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
   * AlexaTM 20B
