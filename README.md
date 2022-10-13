@@ -1,10 +1,17 @@
 # Chatbot Team Meeting & Weekly Arxiv
 
 
-### 금주 : [20221007 4주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/5)
+### 금주 : [20221014 5주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/6)
 
 ### 지난회차
 
+* [20221007 4주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/5)
+  * The emotional arcs of stories are dominated by six basic shapes
+  * Large Language Models are Human-Level Prompt Engineers
+  * Downstream Datasets Make Surprisingly Good Pretraining Corpora
+  * Google PaLM
+  * Deepmind RETRO
+  
 * [20220930 3주차](https://github.com/TeamGENIMA/ChatbotTeamMeeting/issues/4)
   * Deepmind Sparrow
   * In conversation with AI: building better language models
